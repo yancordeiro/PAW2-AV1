@@ -1,0 +1,17 @@
+Você deve implementar o website dos cursos de Tecnologia da Informação da UNIGRANRIO. Para tal, você deve utilizar as tecnologias HTML5, CSS3 e Java.
+
+
+- Cursos
+	- Bacharelado em Sistemas de Informação
+	- Tecnologia em Análise e Desenvolvimento de Sistemas
+	- Tecnologia em Redes de Computadores
+	- Tecnologia em Sistemas para Internet (NOVO)
+
+- Corpo Docente
+	- Para cada professor: foto, nome e link para o currículo Lattes
+
+- Eventos
+	- Hackathon 2019
+	- ERSI 2019
+
+- Notícias
